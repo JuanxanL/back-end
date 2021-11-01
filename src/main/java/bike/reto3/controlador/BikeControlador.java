@@ -28,7 +28,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author ASUS
  */
 @RestController
-@RequestMapping("/api/Costume")
+@RequestMapping("/api/Bike")
 @CrossOrigin(origins = "*", methods = { RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT,
         RequestMethod.DELETE })
 public class BikeControlador {
