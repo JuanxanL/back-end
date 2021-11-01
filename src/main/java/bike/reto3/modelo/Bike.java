@@ -7,7 +7,7 @@ package bike.reto3.modelo;
 
 /**
  *
- * @author ASUS
+ * @author Juan
  */
 import java.io.Serializable;
 import java.util.List;
